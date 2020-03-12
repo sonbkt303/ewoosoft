@@ -1,0 +1,19 @@
+{
+  "name": "count-parentheses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "kimsonbui303@gmail.com",
+  "license": "ISC"
+}
